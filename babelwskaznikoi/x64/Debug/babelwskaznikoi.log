@@ -1,5 +1,5 @@
 ﻿  babelwskaznikoi.cpp
-C:\Users\Olek\Desktop\zsł\4testowanie\babelwskaznikoi\babelwskaznikoi\babelwskaznikoi.cpp(49,20): warning C4101: "temp": lokalna zmienna, do której nie istnieje odwołanie
-C:\Users\Olek\Desktop\zsł\4testowanie\babelwskaznikoi\babelwskaznikoi\babelwskaznikoi.cpp(81,20): warning C4101: "temp": lokalna zmienna, do której nie istnieje odwołanie
-C:\Users\Olek\Desktop\zsł\4testowanie\babelwskaznikoi\babelwskaznikoi\babelwskaznikoi.cpp(122,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-  babelwskaznikoi.vcxproj -> C:\Users\Olek\Desktop\zsł\4testowanie\babelwskaznikoi\x64\Debug\babelwskaznikoi.exe
+C:\Users\Olek\Desktop\zsł\4testowanie\babelwskazniko2\babelwskaznikoi\babelwskaznikoi.cpp(51,20): warning C4101: "temp": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Olek\Desktop\zsł\4testowanie\babelwskazniko2\babelwskaznikoi\babelwskaznikoi.cpp(83,20): warning C4101: "temp": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Olek\Desktop\zsł\4testowanie\babelwskazniko2\babelwskaznikoi\babelwskaznikoi.cpp(195,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  babelwskaznikoi.vcxproj -> C:\Users\Olek\Desktop\zsł\4testowanie\babelwskazniko2\x64\Debug\babelwskaznikoi.exe
