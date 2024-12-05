@@ -1,9 +1,12 @@
 -----------------------------------------------
 | Sortowanie                    | Czas (ms)   |
 -----------------------------------------------
-| Sortowanie for for z kursorem  | 223.392    |
-| Sortowanie while for z kursorem| 205.349    |
-| Sortowanie while shorten for   | 150.681    |
+| Sortowanie for for                                   | 173.459    |
+| Sortowanie for for ze wskaznikiem                    | 239.657    |
+| Sortowanie while for                                 | 166.713    |
+| Sortowanie while for ze wskaznikiem                  | 196.772    |
+| Sortowanie while for zoptymalizowany                 | 123.448    |
+| Sortowanie while for zoptymalizowany ze wskaznikiem  | 165.8    |
 -----------------------------------------------
-| Najszybsze sortowanie: while shorten for    |
+| Najszybsze sortowanie: while for zoptymalizowany    |
 -----------------------------------------------
